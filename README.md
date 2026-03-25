@@ -1,4 +1,4 @@
-# 🚀 Zapier Automated Hiring Pipeline V2 | TechNova Startups
+# Zapier Automated Hiring Pipeline V2 | TechNova Startups
 ### Built with Zapier · Google Forms · Gmail · Slack · Google Sheets
 
 ![Status](https://img.shields.io/badge/Status-Live%20%E2%9C%85-brightgreen?style=for-the-badge)
