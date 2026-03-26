@@ -56,10 +56,7 @@ This project was built in two iterations — **V1** (9 steps, 3 paths) and **V2*
 
 ## V1 vs V2 — What Changed
 
-| Feature | V1 (9 Steps) | V2 (12 Steps) |
 |---|---|---|
-| Total steps | 9 | 12 ✅ |
-| Routing paths | 3 — Junior / Senior / Remote | 2 — Junior / Senior + Digest |
 | Delay before action | ❌ | ✅ 30-min buffer |
 | Email to Sales Manager | ❌ | ✅ Branded HTML email |
 | Daily digest summary | ❌ | ✅ 6 PM Slack batch |
