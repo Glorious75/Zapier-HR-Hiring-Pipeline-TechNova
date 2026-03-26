@@ -118,7 +118,7 @@ Candidate submits Google Form
 
 Every qualified applicant receives an instant personalised confirmation email — keeping the TechNova brand polished and candidate experience professional.
 
-[![Slack Senior Notification - Path B](Slack_Notification_Path_B.jpg.JPG)](https://github.com/Glorious75/Zapier-HR-Hiring-Pipeline-TechNova/blob/main/Slack_Notification_Path_B.jpg.JPG)
+![Slack Senior Notification - Path B](Slack_Notification_Path_B.jpg.JPG)
 
 ### V1 — HR Benefits
 
