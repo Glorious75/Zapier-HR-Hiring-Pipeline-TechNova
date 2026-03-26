@@ -68,7 +68,7 @@ This project was built in two iterations — **V1** (9 steps, 3 paths) and **V2*
 
 ---
 
-## 🏗️ V1 — Original 9-Step Pipeline
+## 🏗️ V1 — Original 12-Step Pipeline
 
 ![V1 Full Zap Architecture](Tecnovas_Application_Full_Zap.jpg)
 
@@ -100,7 +100,9 @@ Candidate submits Google Form
                       ├── Google Sheets → Remote Priority tab
                       └── Slack → #tech-interviews
             │
-  + Gmail Confirmation → All qualified applicants
+  ### Slack notifcation sent to  All qualified applicants
+
+![Slack Senior Notification - Path B](Slack_Notification_Path_B_7_yars_Experience.JPG)
 ```
 
 ### V1 — 3 Routing Paths
