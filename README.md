@@ -116,7 +116,7 @@ Candidate submits Google Form
 
 ###  Slack Notification (Senior Candidate Alert)
 
-**[Open Full Slack Image](https://github.com/Glorious75/Zapier-HR-Hiring-Pipeline-TechNova/blob/main/slack.JPG)**
+https://github.com/Glorious75/Zapier-HR-Hiring-Pipeline-TechNova/blob/main/slack.JPG
 
 ![Slack Notification](./slack.JPG)
 
