@@ -148,7 +148,7 @@ Every qualified applicant receives an instant personalised confirmation email �
 
 ---
 
-## 🆙 V2 — Upgraded 12-Step Pipeline
+## 🆙 V2 — Upgraded Pipeline
 
 ### What's New in V2
 
@@ -175,7 +175,6 @@ Queues one summary line per qualified applicant all day for 6 PM batch release.
 
 ### V2 Architecture
 
-```
 Candidate submits Google Form
             │
   Step 1 — Google Forms Trigger
