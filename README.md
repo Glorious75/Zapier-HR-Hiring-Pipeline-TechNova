@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 A fully automated, intelligent hiring pipeline built on **Zapier** for **TechNova Startups** — screening, routing, and notifying the right people about the right candidates, entirely without manual effort.
 
@@ -25,7 +25,7 @@ This project was built in two iterations — **V1** (9 steps, 3 paths) and **V2*
 
 ---
 
-## ❌ The Problem vs ✅ The Solution
+## The Problem vs ✅ The Solution
 
 | ❌ Before Automation | ✅ After Automation |
 |---|---|
@@ -39,7 +39,7 @@ This project was built in two iterations — **V1** (9 steps, 3 paths) and **V2*
 
 ---
 
-## 📋 Application Form — Google Forms
+## Application Form — Google Forms
 
 **TechNova Software Developer Application** — 6 required fields:
 
@@ -54,7 +54,7 @@ This project was built in two iterations — **V1** (9 steps, 3 paths) and **V2*
 
 ---
 
-## 🔀 V1 vs V2 — What Changed
+## V1 vs V2 — What Changed
 
 | Feature | V1 (9 Steps) | V2 (12 Steps) |
 |---|---|---|
@@ -68,7 +68,7 @@ This project was built in two iterations — **V1** (9 steps, 3 paths) and **V2*
 
 ---
 
-## 🏗️ V1 — Original 12-Step Pipeline
+## V1 — Original 12-Step Pipeline
 
 ![V1 Full Zap Architecture](Tecnovas_Application_Full_Zap.jpg)
 
@@ -99,10 +99,6 @@ Candidate submits Google Form
             └──► PATH C: Remote High-Value
                       ├── Google Sheets → Remote Priority tab
                       └── Slack → #tech-interviews
-            │
-Slack notifcation sent to All qualified applicants
-![Slack Senior Notification - Path B](Slack_Notification_Path_B.jpg)
-
 
 ### V1 — 3 Routing Paths
 
@@ -133,8 +129,11 @@ Slack notifcation sent to All qualified applicants
 | Action | Google Sheets (Remote Priority tab) + Slack alert |
 | Review time | 24-hour priority fast track |
 
-**Gmail Confirmation — All Qualified Paths**
+**Slack notifciation sent  to all Qualified Paths**
+
 Every qualified applicant receives an instant personalised confirmation email — keeping the TechNova brand polished and candidate experience professional.
+
+![Slack Senior Notification - Path B](Slack_Notification_Path_B.jpg)
 
 ### V1 — HR Benefits
 
@@ -173,10 +172,6 @@ Branded HTML candidate card automatically sent after the delay.
 `Digest by Zapier → Append Entry and Schedule Digest`
 Queues one summary line per qualified applicant all day for 6 PM batch release.
 
-Entry format:
-```
-- {{First Name}} {{Last Name}} ({{Email}}) – {{Exp}} yrs – Skills: {{Skills}} – Location: {{Location}}
-```
 
 ### V2 Architecture
 
