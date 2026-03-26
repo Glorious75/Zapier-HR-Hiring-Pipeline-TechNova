@@ -52,18 +52,6 @@ This project was built in two iterations — **V1** (9 steps, 3 paths) and **V2*
 | **Other Skills** | Text | Logged to Sheets / Slack |
 | **Work Location** | Dropdown | Filter gate + Remote Priority routing |
 
----
-
-## V1 vs V2 — What Changed
-
-|---|---|---|
-| Delay before action | ❌ | ✅ 30-min buffer |
-| Email to Sales Manager | ❌ | ✅ Branded HTML email |
-| Daily digest summary | ❌ | ✅ 6 PM Slack batch |
-| Gmail to applicant | ✅ All qualified | ✅ All qualified |
-| Remote High-Value track | ✅ Sheets + Slack | Merged into Senior path |
-
----
 
 ## V1 — Original 12-Step Pipeline
 
@@ -130,7 +118,7 @@ Candidate submits Google Form
 
 Every qualified applicant receives an instant personalised confirmation email — keeping the TechNova brand polished and candidate experience professional.
 
-[![Slack Senior Notification - Path B](Slack_Notification_Path_B.jpg)](Slack_Notification_Path_B.jpg)
+[![Slack Senior Notification - Path B](Slack_Notification_Path_B.jpg)](https://github.com/Glorious75/Zapier-HR-Hiring-Pipeline-TechNova/blob/main/Slack_Notification_Path_B.jpg)
 
 ### V1 — HR Benefits
 
