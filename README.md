@@ -116,9 +116,9 @@ Candidate submits Google Form
 
 ###  Slack Notification (Senior Candidate Alert)
 
-<img src="./slack.JPG" width="700"/>
+[![Slack Notification](./slack.JPG)](./slack.JPG)
 
-Automatically sends a real-time Slack alert when a qualified senior candidate is identified, enabling immediate interview action by the hiring team.
+Automatically sends a real-time Slack alert when a qualified senior candidate is identified, enabling immediate interview action.
 
 ### V1 — HR Benefits
 
