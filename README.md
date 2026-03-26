@@ -114,11 +114,11 @@ Candidate submits Google Form
 | Action | Google Sheets (Remote Priority tab) + Slack alert |
 | Review time | 24-hour priority fast track |
 
-**Slack notifciation sent  to all Qualified Paths**
+###  Slack Notification (Senior Candidate Alert)
 
-Every qualified applicant receives an instant personalised confirmation email — keeping the TechNova brand polished and candidate experience professional.
+<img src="./slack.JPG" width="700"/>
 
-![Slack Senior Notification](slack.jpg)
+Automatically sends a real-time Slack alert when a qualified senior candidate is identified, enabling immediate interview action by the hiring team.
 
 ### V1 — HR Benefits
 
