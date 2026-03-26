@@ -70,6 +70,8 @@ This project was built in two iterations — **V1** (9 steps, 3 paths) and **V2*
 
 ## 🏗️ V1 — Original 9-Step Pipeline
 
+![V1 Full Zap Architecture](Tecnovas_Application__Full_Zap.JPG)
+
 ### Architecture
 
 ```
