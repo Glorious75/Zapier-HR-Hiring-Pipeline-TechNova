@@ -100,10 +100,9 @@ Candidate submits Google Form
                       ├── Google Sheets → Remote Priority tab
                       └── Slack → #tech-interviews
             │
-  ### Slack notifcation sent to  All qualified applicants
+Slack notifcation sent to All qualified applicants
+![Slack Senior Notification - Path B](Slack_Notification_Path_B.jpg)
 
-![Slack Senior Notification - Path B](Slack_Notification_Path_B_7_yars_Experience.JPG)
-```
 
 ### V1 — 3 Routing Paths
 
