@@ -116,9 +116,9 @@ Candidate submits Google Form
 
 ###  Slack Notification (Senior Candidate Alert)
 
-[Click to view Slack Notification](https://github.com/Glorious75/Zapier-HR-Hiring-Pipeline-TechNova/blob/main/slack.JPG)
+**[Open Full Slack Image](https://github.com/Glorious75/Zapier-HR-Hiring-Pipeline-TechNova/blob/main/slack.JPG)**
 
-Automatically sends a real-time Slack alert when a qualified senior candidate is identified, enabling immediate interview action.
+![Slack Notification](./slack.JPG)
 
 ### V1 — HR Benefits
 
