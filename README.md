@@ -133,7 +133,7 @@ Candidate submits Google Form
 
 Every qualified applicant receives an instant personalised confirmation email — keeping the TechNova brand polished and candidate experience professional.
 
-![Slack Senior Notification - Path B](Slack_Notification_Path_B.jpg)
+[![Slack Senior Notification - Path B](Slack_Notification_Path_B.jpg)](Slack_Notification_Path_B.jpg)
 
 ### V1 — HR Benefits
 
@@ -242,7 +242,7 @@ Three AND conditions — fail any one and the Zap stops completely:
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 
 | Metric | Before | After V1 | After V2 |
 |---|---|---|---|
@@ -255,7 +255,7 @@ Three AND conditions — fail any one and the Zap stops completely:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Role |
 |---|---|
@@ -271,7 +271,7 @@ Three AND conditions — fail any one and the Zap stops completely:
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
 zapier-hiring-pipeline/
@@ -293,22 +293,7 @@ zapier-hiring-pipeline/
 └── README.md
 ```
 
----
-
-## 🚀 Possible V3 Upgrades
-
-| Feature | Description |
-|---|---|
-| 🤖 AI Scoring | ChatGPT/Claude API step to auto-score and rank candidates |
-| 📅 Auto-Schedule Interviews | Calendly integration for instant interview booking |
-| ❌ Rejection Emails | Auto-send polite rejection to unqualified candidates |
-| 📊 ATS Integration | Connect to Greenhouse or Lever |
-| 📈 Weekly Leadership Report | Auto-generate weekly hiring summary for leadership |
-| 🔗 LinkedIn Auto-Sync | Pull job posting data directly from LinkedIn |
-
----
-
-## 👩🏾‍💻 About the Builder
+##  About the Builder
 
 **Gloria Njorteah** — Strategic Business Analyst & AI Automation Specialist
 
