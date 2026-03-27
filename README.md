@@ -282,7 +282,7 @@ zapier-hiring-pipeline/
 This pipeline was built and iterated from V1 to V2 as part of a Zapier automation module — demonstrating advanced use of Filter gates, Formatter data cleaning, Paths routing, Delay buffering, Digest batching and multi-tool integrations for a real HR use case.
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/gloria-njorteah)
-- 💼 [Upwork](https://www.upwork.com/freelancers/gloinnovate)
+- 💼 [[Upwork](https://www.upwork.com/freelancers/gloinnovate)](https://www.upwork.com/freelancers/~01e99ac9a61c93ab23?mp_source=share)
 - 🐙 [GitHub](https://github.com/Glorious75)
 
 > *Available to build hiring automation, HR pipelines and workflow systems for your business. Let's talk.*
